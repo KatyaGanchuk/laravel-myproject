@@ -1,0 +1,41 @@
+[33mcommit d77d5a23c38ba75ca98d0bcf16fcef002952ba7f[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mcrud[m[33m)[m
+Author: unknown <gan4uk.katya@gmail.com>
+Date:   Wed Nov 6 18:56:21 2024 +0200
+
+    changes added according to comments
+
+[33mcommit 0a510bb69d5c39f7b7fb5840ec3e83174e529a03[m[33m ([m[1;31morigin/crud[m[33m)[m
+Author: unknown <gan4uk.katya@gmail.com>
+Date:   Mon Nov 4 11:21:26 2024 +0200
+
+    adde crud
+
+[33mcommit 0c1c90690e182011a73e74ebd53e93bbf684242f[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Author: unknown <gan4uk.katya@gmail.com>
+Date:   Mon Nov 4 08:24:34 2024 +0200
+
+    changes added to the folder gitignore
+
+[33mcommit 29683e0ae176b5db5fde4487704f546f7d120254[m
+Author: unknown <gan4uk.katya@gmail.com>
+Date:   Mon Nov 4 08:20:23 2024 +0200
+
+    added barryvdh
+
+[33mcommit f672743ad011ade4a64bcd78c7549e3c932c56b1[m
+Author: unknown <gan4uk.katya@gmail.com>
+Date:   Mon Oct 21 16:13:28 2024 +0300
+
+    delate folder laravel
+
+[33mcommit 887c1f777f7d1f76a48b9d69c88d0c051b7d46b0[m
+Author: unknown <gan4uk.katya@gmail.com>
+Date:   Mon Oct 21 10:14:08 2024 +0300
+
+    added jetstream
+
+[33mcommit fedd07406e6cdc3bb3c43995866a6e21f033371f[m
+Author: KatyaGanchuk <101988575+KatyaGanchuk@users.noreply.github.com>
+Date:   Fri Oct 18 19:55:54 2024 +0300
+
+    Initial commit
